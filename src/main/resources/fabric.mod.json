@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "oregalore",
+	"version": "${version}",
+	"name": "Ore Galore",
+	"description": "Adds useful ores to minecraft as well as adding more uses to existing ores!",
+	"authors": [
+		"remclean"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/remclean/Ore-Galore-1.21.1"
+	},
+	"license": "MIT",
+	"icon": "assets/oregalore/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.remclean.oregalore.OreGalore"
+		],
+		"fabric-datagen": [
+			"net.remclean.oregalore.OreGaloreDataGenerator"
+		]
+	},
+	"mixins": [
+		"oregalore.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
