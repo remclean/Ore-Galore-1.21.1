@@ -16,6 +16,7 @@ import net.minecraft.loot.provider.number.UniformLootNumberProvider;
 import net.minecraft.registry.RegistryKeys;
 import net.minecraft.registry.RegistryWrapper;
 import net.remclean.oregalore.block.ModBlocks;
+import net.remclean.oregalore.item.ModItems;
 
 import java.util.concurrent.CompletableFuture;
 
@@ -31,6 +32,8 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
 
         addDrop(ModBlocks.CLUSTER_DIAMOND_ORE, multipleOreDrops(ModBlocks.CLUSTER_DIAMOND_ORE, Items.DIAMOND, 3, 5));
         addDrop(ModBlocks.DEEPSLATE_CLUSTER_DIAMOND_ORE, multipleOreDrops(ModBlocks.DEEPSLATE_CLUSTER_DIAMOND_ORE, Items.DIAMOND, 3, 5));
+        addDrop(ModBlocks.ALUMINUM_ORE, oreDrops(ModBlocks.ALUMINUM_ORE, ModItems.RAW_ALUMINUM));
+        addDrop(ModBlocks.DEEPSLATE_ALUMINUM_ORE, oreDrops(ModBlocks.DEEPSLATE_ALUMINUM_ORE, ModItems.RAW_ALUMINUM));
 
     }
 
