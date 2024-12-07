@@ -19,6 +19,7 @@ public class ModItemGroups {
 
                         entries.add(ModItems.RAW_ALUMINUM);
                         entries.add(ModItems.ALUMINUM_INGOT);
+                        entries.add(ModBlocks.ALUMINUM_BLOCK);
                         entries.add(ModBlocks.CLUSTER_DIAMOND_ORE);
                         entries.add(ModBlocks.DEEPSLATE_CLUSTER_DIAMOND_ORE);
 

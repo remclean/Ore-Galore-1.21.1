@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
-  "textures":{
+  "textures": {
     "layer0": "oregalore:item/aluminum_ingot"
   }
 }

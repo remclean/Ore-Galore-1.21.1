@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.5,
+  "group": "aluminum_ingot",
+  "ingredient": {
+    "item": "oregalore:raw_aluminum"
+  },
+  "result": {
+    "id": "oregalore:aluminum_ingot"
+  }
+}

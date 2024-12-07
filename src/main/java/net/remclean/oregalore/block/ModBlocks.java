@@ -19,6 +19,8 @@ public class ModBlocks {
             new ExperienceDroppingBlock(UniformIntProvider.create(3, 7), AbstractBlock.Settings.create().mapColor(MapColor.STONE_GRAY).instrument(NoteBlockInstrument.BASEDRUM).requiresTool().strength(3.0F, 3.0F)));
     public static final Block DEEPSLATE_CLUSTER_DIAMOND_ORE = registerBlock("deepslate_cluster_diamond_ore",
             new ExperienceDroppingBlock(UniformIntProvider.create(3, 7), AbstractBlock.Settings.copyShallow(CLUSTER_DIAMOND_ORE).mapColor(MapColor.DEEPSLATE_GRAY).strength(4.5F, 3.0F).sounds(BlockSoundGroup.DEEPSLATE)));
+    public static final Block ALUMINUM_BLOCK = registerBlock("aluminum_block",
+            new Block(AbstractBlock.Settings.copyShallow(Blocks.IRON_BLOCK)));
 
     private static void registerBlockItem(String name, Block block) {
         Registry.register(Registries.ITEM, Identifier.of(OreGalore.MOD_ID, name),

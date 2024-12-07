@@ -1,0 +1,4 @@
+// 1.21.1	2024-12-07T12:15:50.255943298	Ore Galore/Block Loot Tables
+cbafd057ee5e75835e8805ba25fe647c7f44682d data/oregalore/loot_table/blocks/deepslate_cluster_diamond_ore.json
+bf16b436a71141c50c0aead76816820d2da2fc9f data/oregalore/loot_table/blocks/aluminum_block.json
+2d80e33c9b64b47443e4eddec9b1cfe086f00089 data/oregalore/loot_table/blocks/cluster_diamond_ore.json

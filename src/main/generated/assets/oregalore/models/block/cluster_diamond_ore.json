@@ -1,5 +1,5 @@
 {
-  "parent":"minecraft:block/cube_all",
+  "parent": "minecraft:block/cube_all",
   "textures": {
     "all": "oregalore:block/cluster_diamond_ore"
   }
