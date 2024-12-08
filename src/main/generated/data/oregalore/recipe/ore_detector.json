@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "oregalore:aluminum_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "pattern": [
+    " AA",
+    " D ",
+    "ARA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "oregalore:ore_detector"
+  }
+}

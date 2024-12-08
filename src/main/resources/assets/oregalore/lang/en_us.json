@@ -9,5 +9,7 @@
   "block.oregalore.aluminum_ore": "Aluminum Ore",
   "block.oregalore.deepslate_aluminum_ore": "Deepslate Aluminum Ore",
 
-  "itemgroup.oregalore.ore_galore_group": "Ore Galore"
+  "itemgroup.oregalore.ore_galore_group": "Ore Galore",
+
+  "tooltip.oregalore.ore_detector": "Locates Ores - Credit: Kaupenjoe"
 }
