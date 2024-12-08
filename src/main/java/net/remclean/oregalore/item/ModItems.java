@@ -8,6 +8,7 @@ import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 import net.remclean.oregalore.OreGalore;
+import net.remclean.oregalore.item.custom.OreDetectorItem;
 
 
 public class ModItems {
@@ -15,6 +16,9 @@ public class ModItems {
             new Item(new Item.Settings()));
     public static final Item RAW_ALUMINUM = registerItem("raw_aluminum",
             new Item(new Item.Settings()));
+
+    public static final Item ORE_DETECTOR = registerItem("ore_detector",
+            new OreDetectorItem(new Item.Settings().maxDamage(64)));
 
 
     private static Item registerItem(String name, Item item) {

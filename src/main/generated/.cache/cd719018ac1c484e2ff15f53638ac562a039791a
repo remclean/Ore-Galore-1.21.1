@@ -1,12 +1,13 @@
-// 1.21.1	2024-12-07T12:38:29.344112136	Ore Galore/Model Definitions
+// 1.21.1	2024-12-08T09:45:33.011551653	Ore Galore/Model Definitions
 6b04c3a6b3ac1cd590fe5714f54442dcc8e11bae assets/oregalore/models/item/aluminum_block.json
 f97f4ad7ca6a799b8d4e3f1b7ae54754f88b4447 assets/oregalore/models/block/aluminum_block.json
 a1016b70b0ec7345ae9d0ec71ffe76477174f996 assets/oregalore/models/item/aluminum_ingot.json
 2932a05e786ccb0ed5ffd1543e88b33142040c8f assets/oregalore/models/block/aluminum_ore.json
 bbaa68878c73f3c12d46893b4a1810b0c17ceb5d assets/oregalore/models/item/cluster_diamond_ore.json
 84cd7df91f6e35014c7b4ce66971804f2b686f20 assets/oregalore/models/item/aluminum_ore.json
-f14a557ab059e0103ec11a9cfa7cf1b1f3529ce6 assets/oregalore/blockstates/aluminum_ore.json
 752b2c2e91b07f2b26352d3bc6c3de502624f085 assets/oregalore/blockstates/deepslate_cluster_diamond_ore.json
+f14a557ab059e0103ec11a9cfa7cf1b1f3529ce6 assets/oregalore/blockstates/aluminum_ore.json
+2614dcb00f60f71036382ccce79e02c708f50485 assets/oregalore/models/item/ore_detector.json
 684db874b986af120a17d9cf4f1361ab2b3b1238 assets/oregalore/blockstates/cluster_diamond_ore.json
 5ae58a0e08b45cf8fc1aabc157ad6b5cc00bed4c assets/oregalore/models/block/deepslate_cluster_diamond_ore.json
 1b1339435521fad0cf288342f9870ca935d60ff3 assets/oregalore/models/item/deepslate_aluminum_ore.json

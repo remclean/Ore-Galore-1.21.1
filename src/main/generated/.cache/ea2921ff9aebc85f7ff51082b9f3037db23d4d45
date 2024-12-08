@@ -1,4 +1,4 @@
-// 1.21.1	2024-12-07T12:38:29.34543446	Ore Galore/Tags for minecraft:block
+// 1.21.1	2024-12-08T09:45:33.013178471	Ore Galore/Tags for minecraft:block
 387d53c8aea85d854fb8587026f2afb371f5860e data/minecraft/tags/block/needs_iron_tool.json
-cc1c37c32009e2d150e056f0978e616eae443648 data/minecraft/tags/block/needs_stone_tool.json
 fbf0b8bbc987658aa4657e82c9508cda3f02b7c3 data/minecraft/tags/block/mineable/pickaxe.json
+cc1c37c32009e2d150e056f0978e616eae443648 data/minecraft/tags/block/needs_stone_tool.json

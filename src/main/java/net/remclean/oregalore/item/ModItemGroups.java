@@ -24,6 +24,7 @@ public class ModItemGroups {
                         entries.add(ModBlocks.DEEPSLATE_CLUSTER_DIAMOND_ORE);
                         entries.add(ModBlocks.ALUMINUM_ORE);
                         entries.add(ModBlocks.DEEPSLATE_ALUMINUM_ORE);
+                        entries.add(ModItems.ORE_DETECTOR);
 
                     }).build());
 

@@ -1,6 +1,7 @@
 {
   "item.oregalore.aluminum_ingot": "Aluminum Ingot",
   "item.oregalore.raw_aluminum": "Raw Aluminum",
+  "item.oregalore.ore_detector": "Ore Detector",
 
   "block.oregalore.cluster_diamond_ore": "Cluster Diamond Ore",
   "block.oregalore.deepslate_cluster_diamond_ore": "Deepslate Cluster Diamond Ore",
